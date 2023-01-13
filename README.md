@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendranelakurthi&label=Views/Visits&color=blue&style=plastic" alt="rajendranelakurthi" /> </p>
 
  [![Twitter](https://img.shields.io/twitter/follow/AskRajendraN?style=social)](https://twitter.com/AskRajendraN)
-</a>
+
 <a href="https://linkedin.com/in/rajendranelakurthi">
   <kbd>
   <img align="centre" alt="Rajendra Nelakurthi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
