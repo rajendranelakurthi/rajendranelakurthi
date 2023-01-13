@@ -26,10 +26,7 @@
   <img align="centre" alt="Rajendra's gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 
-<a href="Tweet:https://twitter.com/AskRajendraN">
-  <kbd>
-  [![Twitter](https://img.shields.io/twitter/follow/AskRajendraN?style=social)](https://twitter.com/AskRajendraN)
-</a>  
+
 
  [![Twitter](https://img.shields.io/twitter/follow/AskRajendraN?style=social)](https://twitter.com/AskRajendraN)
 <br/>
