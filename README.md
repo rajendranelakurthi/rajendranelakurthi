@@ -25,7 +25,16 @@
   <kbd>
   <img align="centre" alt="Rajendra's gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
- [![Twitter](https://img.shields.io/twitter/follow/AskRajendraN?style=social)
+<a href="Tweet:https://twitter.com/AskRajendraN">
+  <kbd>
+  <img align="centre" alt="Rajendra's Twitter" width="22px" src="https://img.shields.io/twitter/follow/AskRajendraN?style=social" />
+</a>
+<a href="Tweet:https://twitter.com/AskRajendraN">
+  <kbd>
+  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)
+</a>  
+
+ [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)
 <br/>
 <br/>
 
