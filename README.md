@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Rajendra+Nelakurthi)](https://git.io/typing-svg)
 ###### Glad to see you here :heart:
-
+ [![Twitter](https://img.shields.io/twitter/follow/AskRajendraN?style=social)](https://twitter.com/AskRajendraN)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendranelakurthi&label=Views/Visits&color=blue&style=plastic" alt="rajendranelakurthi" /> </p>
 
 </a>
