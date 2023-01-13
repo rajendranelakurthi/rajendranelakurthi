@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendranelakurthi&label=Views/Visits&color=blue&style=plastic" alt="rajendranelakurthi" /> </p>
 
+ [![Twitter](https://img.shields.io/twitter/follow/AskRajendraN?style=social)](https://twitter.com/AskRajendraN)
 </a>
 <a href="https://linkedin.com/in/rajendranelakurthi">
   <kbd>
@@ -25,7 +26,7 @@
   <kbd>
   <img align="centre" alt="Rajendra's gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
- [![Twitter](https://img.shields.io/twitter/follow/AskRajendraN?style=social)
+
 <br/>
 <br/>
 
