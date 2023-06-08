@@ -31,8 +31,8 @@
 <br/>
 
 - 🏢 I am a DevOps Engineer at **Akamai Technologies**
-- 🏫 B.Tech(IT), graduate from JNTU-Kakinada
-- 💻 Former DevOps Engineer at **Turvo Inc, HCL Technologies(Mercedes Benz R&D), Mphasis Ltd(HPE)**
+- 🏫 B.Tech in Information Technology, graduate from JNTU-Kakinada
+- 💻 Former DevOps Engineer at **Turvo Inc, HCL Technologies(Mercedes Benz R&D), Mphasis Ltd(HPE), Calin Info Systems**
 - 🙋‍ More about me: Visit my [**website**](https://rajendranelakurthi.github.io/)
 - 🖇 Follow me on [**LinkedIn**](https://linkedin.com/in/rajendranelakurthi)
 - :mens: Pronouns: He/Him
